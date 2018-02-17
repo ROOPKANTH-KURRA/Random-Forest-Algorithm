@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Jul 18 23:49:32 2017
-
-@author: Mahsa Hassankashi
-"""
-                                                                                            
+                                                                                          
 import numpy as np
 import csv as csv
 from sklearn.ensemble import RandomForestClassifier
